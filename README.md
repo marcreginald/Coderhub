@@ -1,2 +1,2 @@
-# Coderhub
+# Codershub
 MERN STACK TRAINING APP
